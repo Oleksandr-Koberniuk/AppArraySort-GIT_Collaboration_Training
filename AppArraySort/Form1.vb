@@ -16,5 +16,7 @@
         For i = intNumbers.GetLowerBound(0) To intNumbers.GetUpperBound(0)
             lstDisplay.Items.Add(intNumbers(i))
         Next
+
+'coment
     End Sub
 End Class
